@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25641#Cartas-de-Inglaterra
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2008-05-29'
 gutenberg_type: Text
