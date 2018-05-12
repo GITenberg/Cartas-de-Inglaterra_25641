@@ -1,0 +1,39 @@
+_repo: Cartas-de-Inglaterra_25641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiroz, Eca de
+    - Queiroz, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, José Maria Eça de
+    - Queirós, José Maria Eça de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
+    - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25641'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcc 'PQ'
+- !lcsh 'Great Britain -- Politics and government -- 19th century'
+title: Cartas de Inglaterra
+url: http://www.gutenberg.org/ebooks/25641
